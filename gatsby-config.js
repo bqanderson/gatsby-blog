@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Gatsby Workshop | FEM`,
+    description: 'A site built off of the Frontend Masters Introduction to Gatsby tutorial',
+    author: `bqanderson`,
   },
   plugins: ['gatsby-plugin-emotion']
 }
