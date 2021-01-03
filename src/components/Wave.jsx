@@ -13,8 +13,9 @@ const Wave = () => {
         color: #f3ffe7;
         font-size: 1.25rem;
         line-height: 1.5rem;
-        padding: 0.75rem 3rem;
-        border-radius: 6px 6px 6px 0;
+        padding: 0.75rem 1.5rem;
+        border-radius: 18px 18px 18px 0;
+        width: 40%;
 
         &:hover {
           background: #1c192e;
